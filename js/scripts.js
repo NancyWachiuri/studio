@@ -4,13 +4,13 @@ $(".click1"). click(function(){
   $(".hide1").toggle();
 });
 
+$(".click2"). click(function(){
+    $(".show2").toggle();
+    $(".hide2").toggle();
+  });
 
-
-
-
-
-
-
-
-
-});
+$(".click3"). click(function(){
+  $(".show3").toggle();
+  $(".hide3").toggle();
+    });
+  });
