@@ -156,7 +156,14 @@ position: relative;
     color: white;
   }
 
-  
-  
+  .copyright{
+    text-align: center;
+  }
+  .img-fluid{
+    text-align: center;
+    text-decoration:none; color: white; 
+  }
+
+
 
 
