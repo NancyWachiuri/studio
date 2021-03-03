@@ -148,7 +148,6 @@ position: relative;
 
   } 
 
-
   .form-control {
     background-color: unset ; 
   }
@@ -162,6 +161,9 @@ position: relative;
   .img-fluid{
     text-align: center;
     text-decoration:none; color: white; 
+  }
+  .container4{
+    padding-bottom: 20px;
   }
 
 
